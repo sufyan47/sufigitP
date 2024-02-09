@@ -1,6 +1,1 @@
-this is the first file
-i have made this changes
-a 
-b 
-c
-e
+this is changed file
